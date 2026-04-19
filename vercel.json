@@ -1,5 +1,12 @@
 {
   "cleanUrls": true,
+  "redirects": [
+    {
+      "source": "/workouts",
+      "destination": "https://docs.google.com/spreadsheets/d/10q8vRpSrqYr7Rvx2kRfwmF9hYMBTWow8cd2c_xWUFRw/edit?usp=sharing",
+      "permanent": false
+    }
+  ],
   "headers": [
     {
       "source": "/assets/(.*)",
